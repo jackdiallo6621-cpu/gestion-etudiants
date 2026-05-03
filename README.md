@@ -7,10 +7,10 @@ Il permet d’ajouter, modifier, supprimer et afficher des étudiants avec calcu
 ---
 ## 👥 Équipe de travail
 
-* Membre 1
-* Membre 2
-* Membre 3
-* Membre 4
+* Diakariaou Diallo
+* Ibrahima kalil Bah
+* Alseny Cissoco
+* Thimothé Aser Sagno
 ---
 ## ⚙️ Fonctionnalités
 
