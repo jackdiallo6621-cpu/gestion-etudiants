@@ -8,7 +8,7 @@ struct Etudiant {
     string prenom;
     float moyenne;
     string mention;
-};
+}; 
 
 Etudiant tab[50];
 int nb = 0;
